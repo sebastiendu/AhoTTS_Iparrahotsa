@@ -1,0 +1,11 @@
+bin/tts
+bin/tts_client
+bin/tts_server
+debian/.debhelper/
+debian/ahotts-iparrahotsa.substvars
+debian/ahotts-iparrahotsa/
+debian/debhelper-build-stamp
+debian/files
+lib/
+libhtts/build/
+tts/build/
