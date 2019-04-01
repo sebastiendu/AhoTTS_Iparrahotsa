@@ -1,3 +1,0 @@
-/home/aholab/eva/ahotts-ipar-code/bin/tts
-/home/aholab/eva/ahotts-ipar-code/bin/tts_client
-/home/aholab/eva/ahotts-ipar-code/bin/tts_server
