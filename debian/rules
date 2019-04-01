@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+#include /usr/share/dpkg/default.mk
+
+%:
+	dh $@
+
+override_dh_auto_build:
+	./script_compile_all_linux.sh
+
+override_dh_auto_clean:
+	dh_auto_clean
+	./clean.sh

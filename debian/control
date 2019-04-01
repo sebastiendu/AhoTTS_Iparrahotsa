@@ -1,0 +1,19 @@
+Source: ahotts-iparrahotsa
+Section: admin
+Priority: optional
+Maintainer: Les Développements Durables <debian@ldd.fr>
+Standards-Version: 3.9.8
+Build-Depends:
+ debhelper (>=10),
+
+Package: ahotts-iparrahotsa
+Architecture: any
+Depends: 
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: Text-to-Speech conversor for Northern dialect of Basque
+ AhoTTS Iparrahotsa is the TTS developed at the Aholab Signal Processing
+ Laboratory of the University of the Basque Country (UPV/EHU) for the
+ Lapurdian dialect of Basque. This dialect is spoken at the Northern area
+ of the Basque speaking area (French region). This project was funded by
+ the Euroregion Aquitaine-Euskadi under grant EUSKADI-2012-004.

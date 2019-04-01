@@ -1,0 +1,5 @@
+bin/tts usr/bin
+bin/tts_client usr/bin
+bin/tts_server usr/bin
+bin/data_tts/dicts usr/share/ahotts-iparrahotsa
+bin/data_tts/voices usr/share/ahotts-iparrahotsa
